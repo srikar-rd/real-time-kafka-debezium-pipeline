@@ -1,2 +1,2 @@
 # real-time-kafka-debezium-pipeline
-Fetching real time data from mysql to S3
+Real-time data pipeline using MySQL, Kafka, Debezium, and Docker
