@@ -83,4 +83,4 @@ dbserver1.inventory.products
 ## 📬 Contact
 
 Built by **Srikar Maadhu**  
-For more data engineering projects, stay tuned!
+Email: srikar.maadhusrikar@gmail.com 
